@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Datainterfaces
+END
+InterfaceStringDataContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Datainterfaces/InterfaceStringDataContainer.java
+END
+InterfaceBooleanDataContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Datainterfaces/InterfaceBooleanDataContainer.java
+END
+InterfaceNumDataContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Datainterfaces/InterfaceNumDataContainer.java
+END

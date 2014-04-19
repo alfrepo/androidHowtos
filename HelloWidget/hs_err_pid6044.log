@@ -1,0 +1,81 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (classFileParser.cpp:3375), pid=6044, tid=2352
+#  Error: ShouldNotReachHere()
+#
+# JRE version: 6.0_24-b07
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (19.1-b02 mixed mode windows-amd64 compressed oops)
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000000033b800):  JavaThread "Unknown thread" [_thread_in_vm, id=2352, stack(0x0000000002480000,0x0000000002580000)]
+
+Stack: [0x0000000002480000,0x0000000002580000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x000000000033b800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=2352, stack(0x0000000002480000,0x0000000002580000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Dynamic libraries:
+0x0000000000400000 - 0x000000000042e000 	D:\Programme 32\_Development\Java\jre6\bin\javaw.exe
+0x0000000077180000 - 0x0000000077329000 	C:\Windows\SYSTEM32\ntdll.dll
+0x0000000076f00000 - 0x000000007701f000 	C:\Windows\system32\kernel32.dll
+0x000007fefd7d0000 - 0x000007fefd83b000 	C:\Windows\system32\KERNELBASE.dll
+0x000007feff3a0000 - 0x000007feff47b000 	C:\Windows\system32\ADVAPI32.dll
+0x000007fefe2b0000 - 0x000007fefe34f000 	C:\Windows\system32\msvcrt.dll
+0x000007fefdd70000 - 0x000007fefdd8f000 	C:\Windows\SYSTEM32\sechost.dll
+0x000007fefdd90000 - 0x000007fefdebd000 	C:\Windows\system32\RPCRT4.dll
+0x0000000076bf0000 - 0x0000000076cea000 	C:\Windows\system32\USER32.dll
+0x000007fefe0d0000 - 0x000007fefe137000 	C:\Windows\system32\GDI32.dll
+0x000007feff480000 - 0x000007feff48e000 	C:\Windows\system32\LPK.dll
+0x000007fefe140000 - 0x000007fefe209000 	C:\Windows\system32\USP10.dll
+0x000007fefdd40000 - 0x000007fefdd6e000 	C:\Windows\system32\IMM32.DLL
+0x000007fefe420000 - 0x000007fefe529000 	C:\Windows\system32\MSCTF.dll
+0x000000006d7f0000 - 0x000000006def4000 	D:\Programme 32\_Development\Java\jre6\bin\server\jvm.dll
+0x000007fef97b0000 - 0x000007fef97eb000 	C:\Windows\system32\WINMM.dll
+0x000000006d760000 - 0x000000006d76e000 	D:\Programme 32\_Development\Java\jre6\bin\verify.dll
+0x000000006d3b0000 - 0x000000006d3d7000 	D:\Programme 32\_Development\Java\jre6\bin\java.dll
+0x000000006d310000 - 0x000000006d31a000 	D:\Programme 32\_Development\Java\jre6\bin\hpi.dll
+0x0000000077340000 - 0x0000000077347000 	C:\Windows\system32\PSAPI.DLL
+0x000000006d7b0000 - 0x000000006d7c2000 	D:\Programme 32\_Development\Java\jre6\bin\zip.dll
+
+VM Arguments:
+jvm_args: -ea -Dfile.encoding=Cp1252 -Xbootclasspath:D:\Programme 32\_Development\android-sdk-windows\platforms\android-8\android.jar 
+java_command: org.testng.remote.RemoteTestNG -serport 56142 -d D:\Development\AndroidHowtos\HelloWidget\test-output C:\Users\skip\AppData\Local\Temp\testng-eclipse-1493672900\testng-customsuite.xml
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=d:\Programme 32\_Development\Java\jre6\bin
+CLASSPATH=.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip
+PATH=d:\Programme 32\MiKTeX 2.9\miktex\bin;D:\Programme 32\_Development\Active Python\;D:\Programme 32\_Development\Active Python\Scripts;d:\Programme 32\_Development\Ruby192\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Programme 32\_Development\Java\jdk1.6.0_23\jre\bin;C:\Program Files (x86)\QuickTime\QTSystem\;D:\Programme 32\_Development\SlikSvn\bin\;D:\Programme 64\TortoiseSVN\bin;C:\Users\skip\AppData\Roaming\Python\Scripts;D:\Programme 32\_Development\google_appengine\
+USERNAME=skip
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 15 Stepping 11, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 4 (4 cores per cpu, 1 threads per core) family 6 model 15 stepping 11, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3
+
+Memory: 4k page, physical 6289912k(3473152k free), swap 12577980k(8024352k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (19.1-b02) for windows-amd64 JRE (1.6.0_24-b07), built on Feb  2 2011 16:25:45 by "java_re" with MS VC++ 8.0 (VS2005)
+
+time: Fri Apr 15 09:28:24 2011
+elapsed time: 0 seconds
+

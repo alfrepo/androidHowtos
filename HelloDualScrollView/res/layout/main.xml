@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+    <com.binaryme.helloEventsPassing.mScrollView android:layout_width="match_parent"
+    			android:layout_height="match_parent">
+		<com.binaryme.helloEventsPassing.mHorizontalScrollView  
+				android:layout_width="match_parent"
+    			android:layout_height="match_parent">
+	    			<LinearLayout 
+	    				android:layout_width="match_parent"
+		    			android:layout_height="match_parent"
+		    			android:orientation="vertical">
+		    			
+						<Button android:text="Long, very interesting Text inide of a button"   
+							android:layout_width="500dp"
+			    			android:layout_height="800dp"/>
+		    			
+				    </LinearLayout>
+		</com.binaryme.helloEventsPassing.mHorizontalScrollView>
+    </com.binaryme.helloEventsPassing.mScrollView>
+</LinearLayout>

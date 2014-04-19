@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This vertical ScrollView will maintain a bread crumbs bar -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent">
+	
+		<!-- llVertical -->
+		<LinearLayout
+	        android:orientation="vertical"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:padding="0dp">
+		
+			<TabHost
+				android:id="@+android:id/tabhost"
+				android:layout_weight="0"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent">
+			    <!-- llTabhost -->
+			    <LinearLayout
+			        android:orientation="vertical"
+			        android:layout_width="match_parent"
+			        android:layout_height="match_parent"
+			        android:padding="0dp">
+			        <TabWidget
+			            android:id="@android:id/tabs"
+			            android:layout_width="match_parent"
+			            android:layout_height="wrap_content" />
+			        <FrameLayout
+			            android:id="@+android:id/tabcontent"
+			            android:layout_width="match_parent"
+			            android:layout_height="match_parent"
+			            android:padding="0dp" >
+
+						<com.binaryme.helloDualScrollable.SnappyHorizontalScrollView
+						       	android:id="@+id/horizontalScrollView"
+						        android:layout_width="match_parent"
+						        android:layout_height="match_parent">
+						            <!-- llHorizontal -->
+								    <LinearLayout
+								    	android:id="@+id/llContentHorizontal"
+								        android:orientation="vertical"
+								        android:layout_width="match_parent"
+								        android:layout_height="match_parent"
+								        android:padding="0dp">
+										<!-- ************ -->
+										<!-- Content here -->
+										<!-- ************ -->
+												
+						
+									            
+										<!-- ************ -->
+										<!-- Content END  -->
+										<!-- ************ -->
+							        </LinearLayout> <!-- llHorizontal END -->
+						</com.binaryme.helloDualScrollable.SnappyHorizontalScrollView> 			            
+			            
+			        </FrameLayout>
+			    </LinearLayout> <!-- llTabhost END -->
+			</TabHost>
+
+
+		</LinearLayout> <!-- llVertical END -->
+</ScrollView>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+    
+    <com.example.helloandroid.MVerticalScrollView
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent">
+    
+        <com.example.helloandroid.MVerticalScrollView
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+			android:background="#00440f">
+    
+			<com.example.helloandroid.TextField
+				android:layout_width="100dp"
+		    	android:layout_height="100dp"
+				android:height="100dp"
+				android:width="100dp">
+			</com.example.helloandroid.TextField>
+		
+		</com.example.helloandroid.MVerticalScrollView>
+	</com.example.helloandroid.MVerticalScrollView>
+</AbsoluteLayout>

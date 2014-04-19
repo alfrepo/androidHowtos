@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="testText">
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D! \n 
+    	Hello World, Scroll2D!Hello World, Scroll2D! Hello World,  Scroll2D!Hello World, Scroll2D!</string>
+    
+    <string name="app_name">Hello2DScrolling</string>
+</resources>

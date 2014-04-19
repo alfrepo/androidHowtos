@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lab2/private/svn/ScratchPad/!svn/ver/41/HelloScratchTab/src/icommand/nxt/comm
+END
+BlueZException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/BlueZException.java
+END
+OutputState.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/OutputState.java
+END
+NXTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTCommand.java
+END
+NXTCommBlueCove.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTCommBlueCove.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/DeviceInfo.java
+END
+NXTCommFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTCommFactory.java
+END
+InputValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/InputValues.java
+END
+AsciizCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/AsciizCodec.java
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/ErrorMessages.java
+END
+NXTComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTComm.java
+END
+NXTInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTInfo.java
+END
+NXTCommBluez.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTCommBluez.java
+END
+FirmwareInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/FirmwareInfo.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/FileInfo.java
+END
+NXTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lab2/private/svn/ScratchPad/!svn/ver/38/HelloScratchTab/src/icommand/nxt/comm/NXTProtocol.java
+END

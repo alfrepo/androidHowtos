@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+	<com.binaryme.helloExternalScrollbar.ScrollContainerWithExternalScrollbar  android:id="@+id/horizontalScrollViewOutsourcing" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+		    		<Button android:id="@+id/button" android:layout_width="2200dp" android:layout_height="300dp" android:text="Das ist ein sehr langer Text"/>
+		</LinearLayout>
+	</com.binaryme.helloExternalScrollbar.ScrollContainerWithExternalScrollbar>
+
+	<com.binaryme.helloExternalScrollbar.ExternalScrollbar
+		android:id="@+id/externalScroller"
+		android:layout_width="fill_parent"
+		android:layout_height="46px">
+	</com.binaryme.helloExternalScrollbar.ExternalScrollbar>
+</LinearLayout>

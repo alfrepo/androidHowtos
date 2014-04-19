@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/icommand/navigation
+END
+CompassNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/icommand/navigation/CompassNavigator.java
+END
+Pilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/icommand/navigation/Pilot.java
+END
+TachoNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/icommand/navigation/TachoNavigator.java
+END
+Navigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/icommand/navigation/Navigator.java
+END
+CompassPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/icommand/navigation/CompassPilot.java
+END

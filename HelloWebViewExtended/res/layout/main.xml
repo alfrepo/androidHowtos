@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.binaryme.helloWebViewExtended.WebViewCanvas  
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/mCanvas"
+    android:layout_width="1400px" 
+    android:layout_height="800px"
+    android:visibility="visible"
+    >
+	<Button android:text="Very Very Very Very Very Very Very Very Very Very Very Very long Text" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_x="526dip" android:layout_height="wrap_content" android:layout_y="144dip"></Button>
+	<Button android:text="Very Very Very Very Very Very Very Very Very Very Very Very long Text" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_x="526dip" android:layout_height="wrap_content" android:layout_y="444dip"></Button>
+	<Button android:text="Very Very Very Very Very Very Very Very Very Very Very Very long Text" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_x="526dip" android:layout_height="wrap_content" android:layout_y="844dip"></Button>
+	<Button android:text="Very Very Very Very Very Very Very Very Very Very Very Very long Text" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_x="526dip" android:layout_height="wrap_content" android:layout_y="1204dip"></Button>
+	  
+</com.binaryme.helloWebViewExtended.WebViewCanvas>
+
+

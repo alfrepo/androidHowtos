@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:focusableInTouchMode="false"
+	android:focusable="false"
+	descendantFocusability="blocksDescendants">
+	
+	<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:focusableInTouchMode="false"
+	android:focusable="false"
+	descendantFocusability="blocksDescendants">
+	
+		<Button android:text="Button01" android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content"     android:focusableInTouchMode="false" android:focusable="false" descendantFocusability="blocksDescendants"></Button>
+		<Button android:text="Button02" android:id="@+id/Button02" android:layout_width="wrap_content" android:layout_height="wrap_content"     android:focusableInTouchMode="false" android:focusable="false" descendantFocusability="blocksDescendants"></Button>
+    </LinearLayout>
+
+	<TextView android:background="#ff00ff" android:id="@+id/TextView" android:layout_width="fill_parent" android:layout_height="150dp"      android:focusableInTouchMode="false" android:focusable="false" descendantFocusability="blocksDescendants"></TextView>
+	<TextView android:background="#ff00ff00"							  android:layout_width="fill_parent" android:layout_height="100dp"     android:focusableInTouchMode="false" android:focusable="false" descendantFocusability="blocksDescendants"></TextView>
+	<TextView android:background="#f00Fff" android:id="@+id/TextView2" android:layout_width="fill_parent" android:layout_height="150dp"     android:focusableInTouchMode="false" android:focusable="false" descendantFocusability="blocksDescendants"></TextView>
+
+</LinearLayout>
