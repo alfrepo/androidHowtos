@@ -41,8 +41,11 @@ public class MainActivity extends Activity {
 		// automatically handle clicks on the Home/Up button, so long
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
-		if (id == R.id.action_item) {
+		if (id == R.id.action_item1) {
 			Toast.makeText(getApplicationContext(), "Action Item clicked", Toast.LENGTH_LONG).show();
+			return true;
+		}else if (id == R.id.action_provider_sync) {
+			addAnimatedItem();
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
@@ -78,14 +81,21 @@ public class MainActivity extends Activity {
 		});
 	}
 	
-	/**
-	 * http://developer.android.com/guide/topics/ui/actionbar.html
-	 * 
-	 * Buttons that appear directly in the action bar with an icon and/or text are known as action buttons. 
-	 * <img src="http://developer.android.com/images/ui/actionbar-item-withtext.png">
-	 * 
-	 */
-	private void addActionItem(){
+	private void addAnimatedItem(){
+		final MenuItem item = (MenuItem) findViewById(R.id.action_provider_sync);
+//		MActionProviderSync actionProvider = (MActionProviderSync) item.getActionProvider();
+		item.setActionView(R.layout.layout_actionbar_indeterminate_progress);
+		
+		Toast.makeText(getApplicationContext(), "Sync On", Toast.LENGTH_SHORT);
+		
+		item.getActionView().setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				item.setActionView(null);
+				Toast.makeText(getApplicationContext(), "Sync Offffff", Toast.LENGTH_SHORT);		
+			}
+		});
+		
 		
 	}
 

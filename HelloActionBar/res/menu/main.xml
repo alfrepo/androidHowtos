@@ -3,22 +3,27 @@
     tools:context="com.paywyw.helloactionbar.MainActivity" >
 
     <item 
-        android:id="@+id/action_item"
-        android:showAsAction="always|withText"
+        android:id="@+id/action_item1"
+        android:showAsAction="always"
         android:icon="@drawable/ic_launcher"
-        android:title="@string/actionitem"/>
+        android:title="action_item"/>
     
     <item 
-        android:id="@+id/action_view"
-        android:showAsAction="ifRoom|withText"
-        android:title="ActionView" 
+        android:id="@+id/action_view2"
+        android:showAsAction="ifRoom"
+        android:title="action_view2" 
         android:actionViewClass="com.paywyw.helloactionbar.ActionView"/>
     
     <item 
         android:id="@+id/action_provider"
         android:title="ActionProvider" 
         android:icon="@drawable/ic_launcher"
-        android:showAsAction="always|withText"
+        android:showAsAction="always"
         android:actionProviderClass="com.paywyw.helloactionbar.MActionProvider"/>
-
+    
+    <item 
+        android:id="@+id/action_provider_sync"
+        android:showAsAction="always"
+        android:title="action_provider_sync" 
+        android:icon="@drawable/ic_action_refresh"/>
 </menu>
