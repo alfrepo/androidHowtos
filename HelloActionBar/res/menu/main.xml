@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.paywyw.helloactionbar.MainActivity" >
+
+    <item 
+        android:id="@+id/action_item"
+        android:showAsAction="always|withText"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/actionitem"/>
+    
+    <item 
+        android:id="@+id/action_view"
+        android:showAsAction="ifRoom|withText"
+        android:title="ActionView" 
+        android:actionViewClass="com.paywyw.helloactionbar.ActionView"/>
+    
+    <item 
+        android:id="@+id/action_provider"
+        android:title="ActionProvider" 
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always|withText"
+        android:actionProviderClass="com.paywyw.helloactionbar.MActionProvider"/>
+
+</menu>

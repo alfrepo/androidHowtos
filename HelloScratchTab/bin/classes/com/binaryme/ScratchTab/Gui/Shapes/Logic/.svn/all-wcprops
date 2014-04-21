@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic
+END
+ShapeOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeOr.java
+END
+ShapeAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeAnd.java
+END
+ShapeMore.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeMore.java
+END
+ShapeNegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeNegate.java
+END
+ShapeLess.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeLess.java
+END
+ShapeEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Shapes/Logic/ShapeEquals.java
+END

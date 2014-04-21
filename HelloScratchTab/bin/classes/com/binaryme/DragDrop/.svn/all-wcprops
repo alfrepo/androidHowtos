@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/com/binaryme/DragDrop
+END
+LinearLayoutDragCatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/com/binaryme/DragDrop/LinearLayoutDragCatcher.java
+END
+MyDragShadowBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/com/binaryme/DragDrop/MyDragShadowBuilder.java
+END
+DragStateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/com/binaryme/DragDrop/DragStateData.java
+END
+DragHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/com/binaryme/DragDrop/DragHandler.java
+END

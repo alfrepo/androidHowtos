@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/Light.java
+END
+AbstractSensorBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/AbstractSensorBlock.java
+END
+SignalSoundFrequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/SignalSoundFrequency.java
+END
+Acceleration.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/Acceleration.java
+END
+AngularSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/AngularSpeed.java
+END
+MagneticField.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/MagneticField.java
+END
+Orientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/Orientation.java
+END
+SignalScreenflash.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/Gui/Blocks/Tablet/SignalScreenflash.java
+END

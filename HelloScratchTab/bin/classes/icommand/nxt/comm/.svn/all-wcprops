@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm
+END
+BlueZException.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/BlueZException.java
+END
+OutputState.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/OutputState.java
+END
+NXTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTCommand.java
+END
+NXTCommBlueCove.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTCommBlueCove.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/DeviceInfo.java
+END
+NXTCommFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTCommFactory.java
+END
+InputValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/InputValues.java
+END
+AsciizCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/AsciizCodec.java
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/ErrorMessages.java
+END
+NXTInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTInfo.java
+END
+NXTComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTComm.java
+END
+NXTCommBluez.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTCommBluez.java
+END
+FirmwareInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/FirmwareInfo.java
+END
+NXTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/NXTProtocol.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/icommand/nxt/comm/FileInfo.java
+END

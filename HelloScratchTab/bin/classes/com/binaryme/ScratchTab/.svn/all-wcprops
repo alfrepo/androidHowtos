@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab
+END
+ScratchTabDefaultUncaughtExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/ScratchTabDefaultUncaughtExceptionHandler.java
+END
+ApplicationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/ApplicationController.java
+END
+InterfaceStaticInitializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/InterfaceStaticInitializable.java
+END
+DebugMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/DebugMode.java
+END
+StaticInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/com/binaryme/ScratchTab/StaticInitializer.java
+END
