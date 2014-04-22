@@ -13,6 +13,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 	
 	public static Activity activity;
+	private Menu mMenu;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +29,7 @@ public class MainActivity extends Activity {
 	// create the ActionbarMenu here
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
+		this.mMenu = menu;
 
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
@@ -82,9 +84,8 @@ public class MainActivity extends Activity {
 	}
 	
 	private void addAnimatedItem(){
-		final MenuItem item = (MenuItem) findViewById(R.id.action_provider_sync);
-//		MActionProviderSync actionProvider = (MActionProviderSync) item.getActionProvider();
-		item.setActionView(R.layout.layout_actionbar_indeterminate_progress);
+		final MenuItem item = mMenu.findItem(R.id.action_provider_sync);
+		item.setActionView(R.layout.actionbar_indeterminate_progress);
 		
 		Toast.makeText(getApplicationContext(), "Sync On", Toast.LENGTH_SHORT);
 		

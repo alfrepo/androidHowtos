@@ -67,7 +67,7 @@ public class MActionProviderSync extends ActionProvider {
 	
 	public void startAnimation(){
 	     if(mSubMenu!=null && mSubMenu.getItem()!=null){
-	    	 mSubMenu.getItem().setActionView(R.layout.layout_actionbar_indeterminate_progress);
+	    	 mSubMenu.getItem().setActionView(R.layout.actionbar_indeterminate_progress);
 	    	 mSubMenu.getItem().getActionView().setOnClickListener(onClickListener);
 	     }
 	}
